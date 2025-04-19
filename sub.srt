@@ -1,0 +1,15 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello, welcome to this video.
+
+2
+00:00:05,000 --> 00:00:08,000
+In this part, we will show you a simple subtitle example.
+
+3
+00:00:09,000 --> 00:00:11,500
+Subtitles help viewers follow along with the dialogue.
+
+4
+00:00:12,000 --> 00:00:14,000
+Thank you for watching!
